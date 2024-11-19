@@ -2,7 +2,10 @@
 
 ---
 
-### Author Links
+### A todo app with NextJS and server actions
+
+Attach the following code in the terminal to open a `build in server` : ` npx json-server -w db.json -p 3500 -h 127.0.0.1`.
+then in another terminal npm start to run the App
 
 👋 Hello, I'm Dave Gray.
 
@@ -27,8 +30,8 @@
 
 📺 [YouTube Video](https://youtu.be/BmUsDuLO598) for this repository.
 
-
 ### 📚 Recommended Prerequisites
+
 - 🔗 [Next.js 13 for Beginners](https://youtu.be/843nec-IvW0)
 
 ---
@@ -40,15 +43,17 @@
 ---
 
 ### ⚙ Free Web Dev Tools
+
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ### 📚 References
+
 - 🔗 [Next.js Official Site](https://nextjs.org/)
 - 🔗 [Next.js Docs: Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions)
 
 ### 🚀 Project Dependencies
+
 - 🔗 [react-icons](https://www.npmjs.com/package/react-icons)
 - 🔗 [json-server](https://www.npmjs.com/package/json-server)
-
